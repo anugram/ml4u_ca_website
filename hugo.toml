@@ -1,4 +1,4 @@
 baseURL = 'https://ml4u.ca/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Machine Learning 4 You'
 theme = 'github-style'
