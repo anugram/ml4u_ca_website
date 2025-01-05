@@ -1,0 +1,4 @@
+baseURL = 'https://ml4u.ca/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'github-style'
