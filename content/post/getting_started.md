@@ -6,4 +6,8 @@ description = 'This is getting started page that will provide you info like deve
 +++
 
 ## First Post
-I am a s
+Still working on it, please check back next week. Thanks!
+
+```
+from internet import intelligence, productivity, a_better_world
+```
